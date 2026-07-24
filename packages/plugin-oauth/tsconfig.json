@@ -4,7 +4,6 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "baseUrl": ".",
-    "jsx": "react-jsx",
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
